@@ -13,15 +13,16 @@ out/
 .env.production.local
 
 # Python
-venv/
+ai/venv/
 __pycache__/
 *.py[cod]
 *.sqlite3
 *.pyo
 *.pyd
+ai/.env
 
 # Java
-target/
+backend/target/
 *.jar
 *.war
 *.ear
